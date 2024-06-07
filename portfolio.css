@@ -1,0 +1,53 @@
+
+.hlogo, .logo{
+float: left;
+margin-top: 1.5%;
+line-height: 1.1;
+height: 100px;
+padding-left: 20px;
+width: 100
+}
+body{
+    background-color: rgb(237, 249, 254);
+}
+.top-nav a
+{
+    word-spacing: 30px;
+    float: right;
+    color: #0f0c0c;
+    text-align: center;
+    padding: 30px 20px;
+    text-decoration: none;
+    font-size: 30px;
+
+}
+.top-nav{
+    background-color:rgb(237, 249, 254) ;
+    margin-right: 30px;
+    padding-top: 20px;
+    overflow: hidden;
+    
+        
+}
+.top-nav a:hover{
+    background-color: #b1a2e5;
+    color: white;
+}
+.image-sde{
+    float: right;
+    margin-right: 5%;
+}
+.intro{
+    
+        font-size: 40px;
+        line-height: 40px;
+        margin-top: 200px;
+        margin-left: 20px;
+        padding-left: 30px;
+        font-family: Google Sans Medium;
+    
+}
+.contact a{
+    letter-spacing: 5cm;
+}
+  
